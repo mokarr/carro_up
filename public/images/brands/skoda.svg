@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <circle cx="100" cy="90" r="80" fill="#4BA82E"/>
+  <circle cx="100" cy="90" r="72" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <path d="M60 75 L100 55 L140 75 L140 105 L100 125 L60 105 Z" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round"/>
+  <text x="100" y="98" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" fill="#ffffff" letter-spacing="2">SKODA</text>
+  <text x="100" y="188" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#4BA82E" letter-spacing="4">SKODA</text>
+</svg>
