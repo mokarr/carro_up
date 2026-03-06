@@ -1,0 +1,203 @@
+{
+  "$schema": "./_schema.json",
+  "brand": "skoda",
+  "displayName": {
+    "nl": "Skoda",
+    "en": "Skoda",
+    "de": "Skoda",
+    "fr": "Skoda"
+  },
+  "logo": "/images/brands/skoda.svg",
+  "models": [
+    {
+      "id": "citigo",
+      "displayName": {
+        "nl": "Citigo",
+        "en": "Citigo",
+        "de": "Citigo",
+        "fr": "Citigo"
+      },
+      "subtitle": {
+        "nl": "2011–2023",
+        "en": "2011–2023",
+        "de": "2011–2023",
+        "fr": "2011–2023"
+      },
+      "image": "/images/vehicles/skoda-citigo.png",
+      "yearRange": {
+        "from": 2011,
+        "to": 2023
+      },
+      "configurations": [
+        {
+          "id": "pre-facelift-no-garmin",
+          "displayName": {
+            "nl": "Zonder Garmin/Navigon",
+            "en": "Without Garmin/Navigon",
+            "de": "Ohne Garmin/Navigon",
+            "fr": "Sans Garmin/Navigon"
+          },
+          "description": {
+            "nl": "Originele radio zonder ingebouwd navigatiesysteem",
+            "en": "Original radio without built-in navigation",
+            "de": "Originalradio ohne eingebautes Navigationssystem",
+            "fr": "Radio d'origine sans navigation intégrée"
+          },
+          "image": "/images/configs/pre-facelift-no-garmin.jpg",
+          "availableYears": [2011, 2012, 2013, 2014, 2015, 2016],
+          "compatibleProducts": ["skoda-citigo-screen-pre-facelift-no-garmin"],
+          "requiredAccessories": [],
+          "optionalAccessories": ["microsd-card-64gb", "obd2-scanner", "storage-box", "ice-scraper", "grille-3d", "cold-air-intake"],
+          "notes": null
+        },
+        {
+          "id": "pre-facelift-garmin",
+          "displayName": {
+            "nl": "Met Garmin/Navigon",
+            "en": "With Garmin/Navigon",
+            "de": "Mit Garmin/Navigon",
+            "fr": "Avec Garmin/Navigon"
+          },
+          "description": {
+            "nl": "Radio met ingebouwd Garmin of Navigon navigatiesysteem",
+            "en": "Radio with built-in Garmin or Navigon navigation",
+            "de": "Radio mit eingebautem Garmin- oder Navigon-Navigationssystem",
+            "fr": "Radio avec navigation Garmin ou Navigon intégrée"
+          },
+          "image": "/images/configs/pre-facelift-garmin.jpg",
+          "availableYears": [2011, 2012, 2013, 2014, 2015, 2016],
+          "compatibleProducts": ["skoda-citigo-screen-pre-facelift-garmin"],
+          "requiredAccessories": ["build-in-kit-usb"],
+          "optionalAccessories": ["microsd-card-64gb", "obd2-scanner", "storage-box", "ice-scraper"],
+          "notes": null
+        },
+        {
+          "id": "facelift-low-with-holder",
+          "displayName": {
+            "nl": "Laag dashboard met telefoonhouder",
+            "en": "Low dashboard with phone holder",
+            "de": "Niedriges Armaturenbrett mit Telefonhalter",
+            "fr": "Tableau de bord bas avec support téléphone"
+          },
+          "description": {
+            "nl": "Facelift model met laag dashboard en ingebouwde telefoonhouder",
+            "en": "Facelift model with low dashboard and built-in phone holder",
+            "de": "Facelift-Modell mit niedrigem Armaturenbrett und eingebautem Telefonhalter",
+            "fr": "Modèle restylé avec tableau de bord bas et support téléphone intégré"
+          },
+          "image": "/images/configs/facelift-low-holder.jpg",
+          "availableYears": [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+          "compatibleProducts": ["skoda-citigo-screen-facelift-low-holder"],
+          "requiredAccessories": [],
+          "optionalAccessories": ["microsd-card-64gb", "obd2-scanner", "phone-holder-bracket", "storage-box", "ice-scraper", "grille-3d", "cold-air-intake", "usb-insert"],
+          "notes": null
+        },
+        {
+          "id": "facelift-low-no-holder-bt",
+          "displayName": {
+            "nl": "Laag dashboard zonder telefoonhouder — radio met Bluetooth",
+            "en": "Low dashboard without phone holder — radio with Bluetooth",
+            "de": "Niedriges Armaturenbrett ohne Telefonhalter — Radio mit Bluetooth",
+            "fr": "Tableau de bord bas sans support téléphone — radio avec Bluetooth"
+          },
+          "description": {
+            "nl": "Facelift model met laag dashboard zonder telefoonhouder, radio met Bluetooth",
+            "en": "Facelift model with low dashboard without phone holder, radio with Bluetooth",
+            "de": "Facelift-Modell mit niedrigem Armaturenbrett ohne Telefonhalter, Radio mit Bluetooth",
+            "fr": "Modèle restylé avec tableau de bord bas sans support téléphone, radio avec Bluetooth"
+          },
+          "image": "/images/configs/facelift-low-no-holder-bt.jpg",
+          "availableYears": [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+          "compatibleProducts": ["skoda-citigo-screen-facelift-low-no-holder-bt"],
+          "requiredAccessories": ["phone-holder-bracket"],
+          "optionalAccessories": ["microsd-card-64gb", "obd2-scanner", "storage-box", "ice-scraper", "grille-3d", "cold-air-intake", "usb-insert"],
+          "notes": null
+        },
+        {
+          "id": "facelift-low-no-holder-no-bt",
+          "displayName": {
+            "nl": "Laag dashboard zonder telefoonhouder — radio zonder Bluetooth",
+            "en": "Low dashboard without phone holder — radio without Bluetooth",
+            "de": "Niedriges Armaturenbrett ohne Telefonhalter — Radio ohne Bluetooth",
+            "fr": "Tableau de bord bas sans support téléphone — radio sans Bluetooth"
+          },
+          "description": {
+            "nl": "Facelift model met laag dashboard zonder telefoonhouder, radio zonder Bluetooth",
+            "en": "Facelift model with low dashboard without phone holder, radio without Bluetooth",
+            "de": "Facelift-Modell mit niedrigem Armaturenbrett ohne Telefonhalter, Radio ohne Bluetooth",
+            "fr": "Modèle restylé avec tableau de bord bas sans support téléphone, radio sans Bluetooth"
+          },
+          "image": "/images/configs/facelift-low-no-holder-no-bt.jpg",
+          "availableYears": [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+          "compatibleProducts": ["skoda-citigo-screen-facelift-low-no-holder-no-bt"],
+          "requiredAccessories": ["phone-holder-bracket"],
+          "optionalAccessories": ["microsd-card-64gb", "obd2-scanner", "storage-box", "ice-scraper", "grille-3d", "cold-air-intake", "usb-insert"],
+          "notes": null
+        },
+        {
+          "id": "facelift-high-with-holder",
+          "displayName": {
+            "nl": "Hoog dashboard met telefoonhouder",
+            "en": "High dashboard with phone holder",
+            "de": "Hohes Armaturenbrett mit Telefonhalter",
+            "fr": "Tableau de bord haut avec support téléphone"
+          },
+          "description": {
+            "nl": "Facelift model met hoog dashboard en ingebouwde telefoonhouder",
+            "en": "Facelift model with high dashboard and built-in phone holder",
+            "de": "Facelift-Modell mit hohem Armaturenbrett und eingebautem Telefonhalter",
+            "fr": "Modèle restylé avec tableau de bord haut et support téléphone intégré"
+          },
+          "image": "/images/configs/facelift-high-holder.jpg",
+          "availableYears": [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+          "compatibleProducts": ["skoda-citigo-screen-facelift-high-holder"],
+          "requiredAccessories": [],
+          "optionalAccessories": ["microsd-card-64gb", "obd2-scanner", "phone-holder-bracket", "storage-box", "ice-scraper", "grille-3d", "cold-air-intake", "usb-insert"],
+          "notes": null
+        },
+        {
+          "id": "facelift-high-no-holder-bt",
+          "displayName": {
+            "nl": "Hoog dashboard zonder telefoonhouder — radio met Bluetooth",
+            "en": "High dashboard without phone holder — radio with Bluetooth",
+            "de": "Hohes Armaturenbrett ohne Telefonhalter — Radio mit Bluetooth",
+            "fr": "Tableau de bord haut sans support téléphone — radio avec Bluetooth"
+          },
+          "description": {
+            "nl": "Facelift model met hoog dashboard zonder telefoonhouder, radio met Bluetooth",
+            "en": "Facelift model with high dashboard without phone holder, radio with Bluetooth",
+            "de": "Facelift-Modell mit hohem Armaturenbrett ohne Telefonhalter, Radio mit Bluetooth",
+            "fr": "Modèle restylé avec tableau de bord haut sans support téléphone, radio avec Bluetooth"
+          },
+          "image": "/images/configs/facelift-high-no-holder-bt.jpg",
+          "availableYears": [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+          "compatibleProducts": ["skoda-citigo-screen-facelift-high-no-holder-bt"],
+          "requiredAccessories": ["phone-holder-bracket"],
+          "optionalAccessories": ["microsd-card-64gb", "obd2-scanner", "storage-box", "ice-scraper", "grille-3d", "cold-air-intake", "usb-insert"],
+          "notes": null
+        },
+        {
+          "id": "facelift-high-no-holder-no-bt",
+          "displayName": {
+            "nl": "Hoog dashboard zonder telefoonhouder — radio zonder Bluetooth",
+            "en": "High dashboard without phone holder — radio without Bluetooth",
+            "de": "Hohes Armaturenbrett ohne Telefonhalter — Radio ohne Bluetooth",
+            "fr": "Tableau de bord haut sans support téléphone — radio sans Bluetooth"
+          },
+          "description": {
+            "nl": "Facelift model met hoog dashboard zonder telefoonhouder, radio zonder Bluetooth",
+            "en": "Facelift model with high dashboard without phone holder, radio without Bluetooth",
+            "de": "Facelift-Modell mit hohem Armaturenbrett ohne Telefonhalter, Radio ohne Bluetooth",
+            "fr": "Modèle restylé avec tableau de bord haut sans support téléphone, radio sans Bluetooth"
+          },
+          "image": "/images/configs/facelift-high-no-holder-no-bt.jpg",
+          "availableYears": [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+          "compatibleProducts": ["skoda-citigo-screen-facelift-high-no-holder-no-bt"],
+          "requiredAccessories": ["phone-holder-bracket"],
+          "optionalAccessories": ["microsd-card-64gb", "obd2-scanner", "storage-box", "ice-scraper", "grille-3d", "cold-air-intake", "usb-insert"],
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

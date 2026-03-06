@@ -1,0 +1,66 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Vehicle Brand",
+  "description": "Schema for vehicle brand data files.",
+  "type": "object",
+  "required": ["brand", "displayName", "logo", "models"],
+  "properties": {
+    "brand": { "type": "string", "pattern": "^[a-z]+$" },
+    "displayName": { "$ref": "#/$defs/translatedString" },
+    "logo": { "type": "string" },
+    "heroImage": { "type": "string" },
+    "models": { "type": "array", "items": { "$ref": "#/$defs/model" } }
+  },
+  "$defs": {
+    "translatedString": {
+      "type": "object",
+      "required": ["nl", "en"],
+      "properties": {
+        "nl": { "type": "string" },
+        "en": { "type": "string" },
+        "de": { "type": "string" },
+        "fr": { "type": "string" }
+      }
+    },
+    "translatedStringNullable": {
+      "oneOf": [
+        { "$ref": "#/$defs/translatedString" },
+        { "type": "null" }
+      ]
+    },
+    "model": {
+      "type": "object",
+      "required": ["id", "displayName", "image", "yearRange", "configurations"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+        "displayName": { "$ref": "#/$defs/translatedString" },
+        "subtitle": { "$ref": "#/$defs/translatedString" },
+        "image": { "type": "string" },
+        "yearRange": {
+          "type": "object",
+          "required": ["from", "to"],
+          "properties": {
+            "from": { "type": "integer" },
+            "to": { "type": "integer" }
+          }
+        },
+        "configurations": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/configuration" } }
+      }
+    },
+    "configuration": {
+      "type": "object",
+      "required": ["id", "displayName", "image", "availableYears", "compatibleProducts"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+        "displayName": { "$ref": "#/$defs/translatedString" },
+        "description": { "$ref": "#/$defs/translatedString" },
+        "image": { "type": "string" },
+        "availableYears": { "type": "array", "items": { "type": "integer" } },
+        "compatibleProducts": { "type": "array", "items": { "type": "string" } },
+        "requiredAccessories": { "type": "array", "items": { "type": "string" } },
+        "optionalAccessories": { "type": "array", "items": { "type": "string" } },
+        "notes": { "$ref": "#/$defs/translatedStringNullable" }
+      }
+    }
+  }
+}
