@@ -1,0 +1,62 @@
+{
+  "id": "skoda-citigo-screen-facelift-low-no-holder-no-bt",
+  "category": "screen",
+  "slug": "skoda-citigo-screen-2016-2023-low-dashboard-without-holder-no-bluetooth",
+  "name": {
+    "nl": "UpCarPlay Scherm Skoda Citigo (2016–2023) — Laag Dashboard — Zonder Houder — Zonder BT",
+    "en": "UpCarPlay Screen Skoda Citigo (2016–2023) — Low Dashboard — Without Holder — Without BT",
+    "de": "UpCarPlay Bildschirm Skoda Citigo (2016–2023) — Niedriges Armaturenbrett — Ohne Halter — Ohne BT",
+    "fr": "Écran UpCarPlay Skoda Citigo (2016–2023) — Tableau de bord bas — Sans support — Sans BT"
+  },
+  "shortDescription": {
+    "nl": "11.25\" CarPlay scherm voor Skoda Citigo facelift met laag dashboard, zonder houder, zonder Bluetooth",
+    "en": "11.25\" CarPlay screen for Skoda Citigo facelift with low dashboard, without holder, without Bluetooth",
+    "de": "11,25\" CarPlay Bildschirm für Skoda Citigo Facelift mit niedrigem Armaturenbrett, ohne Halter, ohne Bluetooth",
+    "fr": "Écran CarPlay 11,25\" pour Skoda Citigo restylage avec tableau de bord bas, sans support, sans Bluetooth"
+  },
+  "description": {
+    "nl": "Upgrade je Skoda Citigo (2016–2023) met laag dashboard met dit 11.25\" IPS touchscreen. Geschikt voor modellen zonder telefoonhouder en zonder Bluetooth. Geniet van draadloos Apple CarPlay, Android Auto, een ingebouwde 4K dashcam en nog veel meer.",
+    "en": "Upgrade your Skoda Citigo (2016–2023) with low dashboard with this 11.25\" IPS touchscreen. Suitable for models without phone holder and without Bluetooth. Enjoy wireless Apple CarPlay, Android Auto, a built-in 4K dashcam and much more.",
+    "de": "Rüsten Sie Ihren Skoda Citigo (2016–2023) mit niedrigem Armaturenbrett mit diesem 11,25\" IPS Touchscreen auf. Geeignet für Modelle ohne Telefonhalter und ohne Bluetooth. Genießen Sie drahtloses Apple CarPlay, Android Auto, eine integrierte 4K-Dashcam und vieles mehr.",
+    "fr": "Améliorez votre Skoda Citigo (2016–2023) avec tableau de bord bas avec cet écran tactile IPS 11,25\". Adapté aux modèles sans support téléphone et sans Bluetooth. Profitez d'Apple CarPlay et Android Auto sans fil, d'une dashcam 4K intégrée et bien plus encore."
+  },
+  "price": 33999,
+  "compareAtPrice": 37999,
+  "currency": "EUR",
+  "specs": {
+    "display": "11.25\" IPS",
+    "resolution": "1920 x 720",
+    "dimensions": "260 x 105 mm",
+    "dashcam": "4K (3840 x 2160)",
+    "ram": "6 GB",
+    "brightness": "100–1000 nits",
+    "wireless": "CarPlay, Android Auto, BT 5.0, AirPlay",
+    "connections": "USB-C, AUX, microSD, rear camera",
+    "power": "5V / 3A",
+    "warranty": "1 year"
+  },
+  "images": ["/images/products/skoda-citigo-facelift-low-no-holder-no-bt.jpg"],
+  "packageContents": {
+    "nl": ["UpCarPlay scherm", "USB-C kabel", "AUX kabel (90°)", "Montagehandleiding"],
+    "en": ["UpCarPlay screen", "USB-C cable", "AUX cable (90°)", "Installation guide"],
+    "de": ["UpCarPlay Bildschirm", "USB-C Kabel", "AUX Kabel (90°)", "Montageanleitung"],
+    "fr": ["Écran UpCarPlay", "Câble USB-C", "Câble AUX (90°)", "Guide d'installation"]
+  },
+  "features": {
+    "nl": ["Draadloos Apple CarPlay & Android Auto", "Ingebouwde 4K dashcam", "Plug & play installatie", "11.25\" IPS touchscreen", "Bluetooth 5.0", "AirPlay ondersteuning"],
+    "en": ["Wireless Apple CarPlay & Android Auto", "Built-in 4K dashcam", "Plug & play installation", "11.25\" IPS touchscreen", "Bluetooth 5.0", "AirPlay support"],
+    "de": ["Drahtloses Apple CarPlay & Android Auto", "Integrierte 4K-Dashcam", "Plug & Play Installation", "11,25\" IPS Touchscreen", "Bluetooth 5.0", "AirPlay-Unterstützung"],
+    "fr": ["Apple CarPlay & Android Auto sans fil", "Dashcam 4K intégrée", "Installation plug & play", "Écran tactile IPS 11,25\"", "Bluetooth 5.0", "Support AirPlay"]
+  },
+  "recommended": false,
+  "variants": [
+    { "id": "logo-standard", "name": { "nl": "Standaard logo", "en": "Standard logo", "de": "Standard-Logo", "fr": "Logo standard" }, "priceModifier": 0 },
+    { "id": "logo-eup", "name": { "nl": "E-UP logo", "en": "E-UP logo", "de": "E-UP Logo", "fr": "Logo E-UP" }, "priceModifier": 2500 },
+    { "id": "logo-gti", "name": { "nl": "GTI logo", "en": "GTI logo", "de": "GTI Logo", "fr": "Logo GTI" }, "priceModifier": 3500 },
+    { "id": "logo-vw", "name": { "nl": "VW logo", "en": "VW logo", "de": "VW Logo", "fr": "Logo VW" }, "priceModifier": 2500 },
+    { "id": "logo-seat", "name": { "nl": "Seat logo", "en": "Seat logo", "de": "Seat Logo", "fr": "Logo Seat" }, "priceModifier": 2500 },
+    { "id": "logo-skoda", "name": { "nl": "Skoda logo", "en": "Skoda logo", "de": "Skoda Logo", "fr": "Logo Skoda" }, "priceModifier": 2500 }
+  ],
+  "stripeProductId": "",
+  "stripePriceId": ""
+}

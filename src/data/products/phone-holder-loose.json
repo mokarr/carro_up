@@ -1,0 +1,46 @@
+{
+  "id": "phone-holder-loose",
+  "category": "accessory",
+  "slug": "phone-holder-loose",
+  "name": {
+    "nl": "Telefoonhouder los",
+    "en": "Phone holder loose",
+    "de": "Telefonhalter einzeln",
+    "fr": "Support téléphone seul"
+  },
+  "shortDescription": {
+    "nl": "Losse siliconen telefoonhouder",
+    "en": "Loose silicone phone holder",
+    "de": "Einzelner Silikon-Telefonhalter",
+    "fr": "Support téléphone en silicone seul"
+  },
+  "description": {
+    "nl": "Universele siliconen telefoonhouder, los verkrijgbaar als vervanging of extra houder. Past op alle gangbare smartphones en is eenvoudig te plaatsen.",
+    "en": "Universal silicone phone holder, available separately as replacement or extra holder. Fits all common smartphones and is easy to install.",
+    "de": "Universeller Silikon-Telefonhalter, einzeln erhältlich als Ersatz oder zusätzlicher Halter. Passt auf alle gängigen Smartphones und ist einfach zu montieren.",
+    "fr": "Support téléphone universel en silicone, disponible séparément en remplacement ou en support supplémentaire. Compatible avec tous les smartphones courants et facile à installer."
+  },
+  "price": 1599,
+  "compareAtPrice": null,
+  "currency": "EUR",
+  "specs": {
+    "material": "Silicone",
+    "compatibility": "Universal"
+  },
+  "images": ["/images/products/phone-holder-loose.jpg"],
+  "packageContents": {
+    "nl": ["Telefoonhouder"],
+    "en": ["Phone holder"],
+    "de": ["Telefonhalter"],
+    "fr": ["Support téléphone"]
+  },
+  "features": {
+    "nl": ["Universeel geschikt", "Flexibel silicone materiaal", "Eenvoudig te plaatsen"],
+    "en": ["Universally compatible", "Flexible silicone material", "Easy to install"],
+    "de": ["Universell kompatibel", "Flexibles Silikonmaterial", "Einfach zu montieren"],
+    "fr": ["Compatible universellement", "Matériau silicone flexible", "Facile à installer"]
+  },
+  "recommended": false,
+  "stripeProductId": "",
+  "stripePriceId": ""
+}

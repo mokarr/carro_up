@@ -1,0 +1,46 @@
+{
+  "id": "cold-air-intake",
+  "category": "accessory",
+  "slug": "cold-air-intake",
+  "name": {
+    "nl": "Koude lucht inlaat",
+    "en": "Cold air intake",
+    "de": "Kaltlufteinlass",
+    "fr": "Admission d'air froid"
+  },
+  "shortDescription": {
+    "nl": "Koude lucht inlaat voor betere motorprestaties",
+    "en": "Cold air intake for improved engine performance",
+    "de": "Kaltlufteinlass für verbesserte Motorleistung",
+    "fr": "Admission d'air froid pour de meilleures performances moteur"
+  },
+  "description": {
+    "nl": "Verbeter de motorprestaties van je VW Up, Seat Mii of Skoda Citigo met deze koude lucht inlaat. Gemaakt van hoogwaardig aluminium en silicone voor optimale luchttoevoer en duurzaamheid.",
+    "en": "Improve the engine performance of your VW Up, Seat Mii or Skoda Citigo with this cold air intake. Made of high-quality aluminum and silicone for optimal airflow and durability.",
+    "de": "Verbessern Sie die Motorleistung Ihres VW Up, Seat Mii oder Skoda Citigo mit diesem Kaltlufteinlass. Aus hochwertigem Aluminium und Silikon für optimale Luftzufuhr und Langlebigkeit.",
+    "fr": "Améliorez les performances du moteur de votre VW Up, Seat Mii ou Skoda Citigo avec cette admission d'air froid. Fabriquée en aluminium et silicone de haute qualité pour un flux d'air optimal et une durabilité accrue."
+  },
+  "price": 6999,
+  "compareAtPrice": null,
+  "currency": "EUR",
+  "specs": {
+    "material": "Aluminum + silicone",
+    "fit": "VW Up / Seat Mii / Skoda Citigo"
+  },
+  "images": ["/images/products/cold-air-intake.jpg"],
+  "packageContents": {
+    "nl": ["Koude lucht inlaat", "Montagehandleiding"],
+    "en": ["Cold air intake", "Installation guide"],
+    "de": ["Kaltlufteinlass", "Montageanleitung"],
+    "fr": ["Admission d'air froid", "Guide d'installation"]
+  },
+  "features": {
+    "nl": ["Verbeterde motorprestaties", "Aluminium + silicone constructie", "Eenvoudige installatie"],
+    "en": ["Improved engine performance", "Aluminum + silicone construction", "Easy installation"],
+    "de": ["Verbesserte Motorleistung", "Aluminium + Silikon Konstruktion", "Einfache Installation"],
+    "fr": ["Performances moteur améliorées", "Construction aluminium + silicone", "Installation facile"]
+  },
+  "recommended": false,
+  "stripeProductId": "",
+  "stripePriceId": ""
+}

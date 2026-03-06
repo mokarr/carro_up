@@ -1,0 +1,46 @@
+{
+  "id": "build-in-kit-usb",
+  "category": "accessory",
+  "slug": "build-in-kit-usb",
+  "name": {
+    "nl": "Inbouwkit met USB",
+    "en": "Build-in kit with USB",
+    "de": "Einbaukit mit USB",
+    "fr": "Kit d'intégration avec USB"
+  },
+  "shortDescription": {
+    "nl": "Vereist voor modellen met Garmin/Navigon navigatie",
+    "en": "Required for models with Garmin/Navigon navigation",
+    "de": "Erforderlich für Modelle mit Garmin/Navigon Navigation",
+    "fr": "Requis pour les modèles avec navigation Garmin/Navigon"
+  },
+  "description": {
+    "nl": "Inbouwkit met USB adapter, vereist voor VW Up, Seat Mii en Skoda Citigo pre-facelift modellen met Garmin of Navigon navigatie. Bevat het montageframe en USB adapter voor een naadloze installatie van je UpCarPlay scherm.",
+    "en": "Build-in kit with USB adapter, required for VW Up, Seat Mii and Skoda Citigo pre-facelift models with Garmin or Navigon navigation. Includes the mounting frame and USB adapter for a seamless installation of your UpCarPlay screen.",
+    "de": "Einbaukit mit USB-Adapter, erforderlich für VW Up, Seat Mii und Skoda Citigo Pre-Facelift Modelle mit Garmin oder Navigon Navigation. Enthält den Montagerahmen und USB-Adapter für eine nahtlose Installation Ihres UpCarPlay Bildschirms.",
+    "fr": "Kit d'intégration avec adaptateur USB, requis pour les modèles VW Up, Seat Mii et Skoda Citigo pré-restylage avec navigation Garmin ou Navigon. Comprend le cadre de montage et l'adaptateur USB pour une installation parfaite de votre écran UpCarPlay."
+  },
+  "price": 12999,
+  "compareAtPrice": null,
+  "currency": "EUR",
+  "specs": {
+    "includes": "Mounting frame + USB adapter",
+    "fit": "VW Up / Seat Mii / Skoda Citigo pre-facelift Garmin"
+  },
+  "images": ["/images/products/build-in-kit-usb.jpg"],
+  "packageContents": {
+    "nl": ["Montageframe", "USB adapter", "Bevestigingsmateriaal", "Montagehandleiding"],
+    "en": ["Mounting frame", "USB adapter", "Mounting hardware", "Installation guide"],
+    "de": ["Montagerahmen", "USB-Adapter", "Befestigungsmaterial", "Montageanleitung"],
+    "fr": ["Cadre de montage", "Adaptateur USB", "Matériel de fixation", "Guide d'installation"]
+  },
+  "features": {
+    "nl": ["Inclusief montageframe", "USB adapter inbegrepen", "Geschikt voor Garmin/Navigon modellen"],
+    "en": ["Includes mounting frame", "USB adapter included", "Suitable for Garmin/Navigon models"],
+    "de": ["Inklusive Montagerahmen", "USB-Adapter inklusive", "Geeignet für Garmin/Navigon Modelle"],
+    "fr": ["Cadre de montage inclus", "Adaptateur USB inclus", "Adapté aux modèles Garmin/Navigon"]
+  },
+  "recommended": false,
+  "stripeProductId": "",
+  "stripePriceId": ""
+}

@@ -1,0 +1,46 @@
+{
+  "id": "grille-3d",
+  "category": "accessory",
+  "slug": "3d-grille",
+  "name": {
+    "nl": "3D Grille",
+    "en": "3D Grille",
+    "de": "3D-Kühlergrill",
+    "fr": "Grille 3D"
+  },
+  "shortDescription": {
+    "nl": "Sportieve 3D grille voor een unieke look",
+    "en": "Sporty 3D grille for a unique look",
+    "de": "Sportlicher 3D-Kühlergrill für einen einzigartigen Look",
+    "fr": "Grille 3D sportive pour un look unique"
+  },
+  "description": {
+    "nl": "Geef je VW Up, Seat Mii of Skoda Citigo een sportieve uitstraling met deze 3D grille. Gemaakt van duurzaam ABS plastic, eenvoudig te monteren als vervanging van de originele grille.",
+    "en": "Give your VW Up, Seat Mii or Skoda Citigo a sporty appearance with this 3D grille. Made of durable ABS plastic, easy to install as a replacement for the original grille.",
+    "de": "Verleihen Sie Ihrem VW Up, Seat Mii oder Skoda Citigo ein sportliches Aussehen mit diesem 3D-Kühlergrill. Aus langlebigem ABS-Kunststoff gefertigt, einfach als Ersatz für den originalen Kühlergrill zu montieren.",
+    "fr": "Donnez à votre VW Up, Seat Mii ou Skoda Citigo un look sportif avec cette grille 3D. Fabriquée en plastique ABS durable, facile à installer en remplacement de la grille d'origine."
+  },
+  "price": 3999,
+  "compareAtPrice": null,
+  "currency": "EUR",
+  "specs": {
+    "material": "ABS",
+    "fit": "VW Up / Seat Mii / Skoda Citigo"
+  },
+  "images": ["/images/products/grille-3d.jpg"],
+  "packageContents": {
+    "nl": ["3D Grille"],
+    "en": ["3D Grille"],
+    "de": ["3D-Kühlergrill"],
+    "fr": ["Grille 3D"]
+  },
+  "features": {
+    "nl": ["Sportieve 3D look", "Duurzaam ABS plastic", "Eenvoudige montage"],
+    "en": ["Sporty 3D look", "Durable ABS plastic", "Easy installation"],
+    "de": ["Sportlicher 3D-Look", "Langlebiges ABS-Kunststoff", "Einfache Montage"],
+    "fr": ["Look 3D sportif", "Plastique ABS durable", "Installation facile"]
+  },
+  "recommended": false,
+  "stripeProductId": "",
+  "stripePriceId": ""
+}

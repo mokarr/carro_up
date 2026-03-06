@@ -1,0 +1,46 @@
+{
+  "id": "microsd-card-64gb",
+  "category": "accessory",
+  "slug": "microsd-card-64gb",
+  "name": {
+    "nl": "MicroSD kaart 64GB",
+    "en": "MicroSD card 64GB",
+    "de": "MicroSD-Karte 64GB",
+    "fr": "Carte MicroSD 64Go"
+  },
+  "shortDescription": {
+    "nl": "Snelle 64GB MicroSD kaart voor dashcam opnames",
+    "en": "Fast 64GB MicroSD card for dashcam recordings",
+    "de": "Schnelle 64GB MicroSD-Karte für Dashcam-Aufnahmen",
+    "fr": "Carte MicroSD 64Go rapide pour enregistrements dashcam"
+  },
+  "description": {
+    "nl": "Hoogwaardige 64GB MicroSD kaart met Class 10 / U3 snelheid, perfect voor het opslaan van dashcam opnames op je UpCarPlay scherm. Betrouwbare opslag met snelle lees- en schrijfsnelheden.",
+    "en": "High-quality 64GB MicroSD card with Class 10 / U3 speed, perfect for storing dashcam recordings on your UpCarPlay screen. Reliable storage with fast read and write speeds.",
+    "de": "Hochwertige 64GB MicroSD-Karte mit Class 10 / U3 Geschwindigkeit, perfekt für die Speicherung von Dashcam-Aufnahmen auf Ihrem UpCarPlay Bildschirm. Zuverlässiger Speicher mit schnellen Lese- und Schreibgeschwindigkeiten.",
+    "fr": "Carte MicroSD 64Go de haute qualité avec vitesse Class 10 / U3, parfaite pour stocker les enregistrements dashcam sur votre écran UpCarPlay. Stockage fiable avec des vitesses de lecture et d'écriture rapides."
+  },
+  "price": 3399,
+  "compareAtPrice": null,
+  "currency": "EUR",
+  "specs": {
+    "capacity": "64 GB",
+    "speed": "Class 10 / U3"
+  },
+  "images": ["/images/products/microsd-card.jpg"],
+  "packageContents": {
+    "nl": ["MicroSD kaart 64GB"],
+    "en": ["MicroSD card 64GB"],
+    "de": ["MicroSD-Karte 64GB"],
+    "fr": ["Carte MicroSD 64Go"]
+  },
+  "features": {
+    "nl": ["64GB opslagcapaciteit", "Class 10 / U3 snelheid", "Geschikt voor 4K dashcam opnames"],
+    "en": ["64GB storage capacity", "Class 10 / U3 speed", "Suitable for 4K dashcam recordings"],
+    "de": ["64GB Speicherkapazität", "Class 10 / U3 Geschwindigkeit", "Geeignet für 4K Dashcam-Aufnahmen"],
+    "fr": ["Capacité de stockage 64Go", "Vitesse Class 10 / U3", "Adapté aux enregistrements dashcam 4K"]
+  },
+  "recommended": false,
+  "stripeProductId": "",
+  "stripePriceId": ""
+}

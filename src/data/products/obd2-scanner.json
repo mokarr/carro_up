@@ -1,0 +1,46 @@
+{
+  "id": "obd2-scanner",
+  "category": "accessory",
+  "slug": "obd2-scanner",
+  "name": {
+    "nl": "OBD2 Scanner",
+    "en": "OBD2 Scanner",
+    "de": "OBD2 Scanner",
+    "fr": "OBD2 Scanner"
+  },
+  "shortDescription": {
+    "nl": "Bluetooth OBD2 scanner voor het uitlezen van foutcodes",
+    "en": "Bluetooth OBD2 scanner for reading error codes",
+    "de": "Bluetooth OBD2 Scanner zum Auslesen von Fehlercodes",
+    "fr": "Scanner OBD2 Bluetooth pour la lecture des codes d'erreur"
+  },
+  "description": {
+    "nl": "Handige Bluetooth OBD2 scanner waarmee je eenvoudig foutcodes kunt uitlezen en wissen via je smartphone of UpCarPlay scherm. Compatibel met alle OBD2 / EOBD voertuigen.",
+    "en": "Convenient Bluetooth OBD2 scanner that allows you to easily read and clear error codes via your smartphone or UpCarPlay screen. Compatible with all OBD2 / EOBD vehicles.",
+    "de": "Praktischer Bluetooth OBD2 Scanner, mit dem Sie einfach Fehlercodes über Ihr Smartphone oder Ihren UpCarPlay Bildschirm auslesen und löschen können. Kompatibel mit allen OBD2 / EOBD Fahrzeugen.",
+    "fr": "Scanner OBD2 Bluetooth pratique qui vous permet de lire et d'effacer facilement les codes d'erreur via votre smartphone ou votre écran UpCarPlay. Compatible avec tous les véhicules OBD2 / EOBD."
+  },
+  "price": 3999,
+  "compareAtPrice": null,
+  "currency": "EUR",
+  "specs": {
+    "protocol": "OBD2 / EOBD",
+    "connection": "Bluetooth"
+  },
+  "images": ["/images/products/obd2-scanner.jpg"],
+  "packageContents": {
+    "nl": ["OBD2 Scanner"],
+    "en": ["OBD2 Scanner"],
+    "de": ["OBD2 Scanner"],
+    "fr": ["Scanner OBD2"]
+  },
+  "features": {
+    "nl": ["Bluetooth verbinding", "OBD2 / EOBD compatibel", "Foutcodes uitlezen en wissen"],
+    "en": ["Bluetooth connection", "OBD2 / EOBD compatible", "Read and clear error codes"],
+    "de": ["Bluetooth-Verbindung", "OBD2 / EOBD kompatibel", "Fehlercodes auslesen und löschen"],
+    "fr": ["Connexion Bluetooth", "Compatible OBD2 / EOBD", "Lire et effacer les codes d'erreur"]
+  },
+  "recommended": false,
+  "stripeProductId": "",
+  "stripePriceId": ""
+}

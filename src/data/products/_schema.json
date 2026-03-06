@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Product",
+  "type": "object",
+  "required": ["id", "category", "slug", "name", "price", "currency", "specs", "images"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "category": { "type": "string", "enum": ["screen", "accessory"] },
+    "slug": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "name": { "type": "object", "required": ["nl", "en"], "properties": { "nl": { "type": "string" }, "en": { "type": "string" }, "de": { "type": "string" }, "fr": { "type": "string" } } },
+    "shortDescription": { "type": "object", "properties": { "nl": { "type": "string" }, "en": { "type": "string" }, "de": { "type": "string" }, "fr": { "type": "string" } } },
+    "description": { "type": "object", "properties": { "nl": { "type": "string" }, "en": { "type": "string" }, "de": { "type": "string" }, "fr": { "type": "string" } } },
+    "price": { "type": "integer", "description": "Price in cents" },
+    "compareAtPrice": { "oneOf": [{ "type": "integer" }, { "type": "null" }] },
+    "currency": { "type": "string", "enum": ["EUR"] },
+    "specs": { "type": "object" },
+    "images": { "type": "array", "items": { "type": "string" } },
+    "packageContents": { "type": "object" },
+    "features": { "type": "object" },
+    "recommended": { "type": "boolean" },
+    "variants": { "type": "array", "items": { "type": "object", "required": ["id", "name", "priceModifier"], "properties": { "id": { "type": "string" }, "name": { "type": "object" }, "priceModifier": { "type": "integer" } } } },
+    "stripeProductId": { "type": "string" },
+    "stripePriceId": { "type": "string" }
+  }
+}

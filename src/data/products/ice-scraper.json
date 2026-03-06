@@ -1,0 +1,45 @@
+{
+  "id": "ice-scraper",
+  "category": "accessory",
+  "slug": "ice-scraper",
+  "name": {
+    "nl": "IJskrabber",
+    "en": "Ice scraper",
+    "de": "Eiskratzer",
+    "fr": "Grattoir à glace"
+  },
+  "shortDescription": {
+    "nl": "Stevige ijskrabber met messing rand",
+    "en": "Sturdy ice scraper with brass edge",
+    "de": "Robuster Eiskratzer mit Messingkante",
+    "fr": "Grattoir à glace robuste avec bord en laiton"
+  },
+  "description": {
+    "nl": "Hoogwaardige ijskrabber gemaakt van ABS kunststof met een messing rand voor effectief ijskrabben zonder je voorruit te beschadigen. Compact formaat, ideaal om in je auto te bewaren.",
+    "en": "High-quality ice scraper made of ABS plastic with a brass edge for effective ice scraping without damaging your windshield. Compact size, ideal to keep in your car.",
+    "de": "Hochwertiger Eiskratzer aus ABS-Kunststoff mit Messingkante für effektives Eiskratzen ohne die Windschutzscheibe zu beschädigen. Kompakte Größe, ideal zum Aufbewahren im Auto.",
+    "fr": "Grattoir à glace de haute qualité en plastique ABS avec bord en laiton pour un grattage efficace sans endommager votre pare-brise. Format compact, idéal à garder dans votre voiture."
+  },
+  "price": 795,
+  "compareAtPrice": null,
+  "currency": "EUR",
+  "specs": {
+    "material": "ABS + brass"
+  },
+  "images": ["/images/products/ice-scraper.jpg"],
+  "packageContents": {
+    "nl": ["IJskrabber"],
+    "en": ["Ice scraper"],
+    "de": ["Eiskratzer"],
+    "fr": ["Grattoir à glace"]
+  },
+  "features": {
+    "nl": ["Messing rand", "Krasvrij ijskrabben", "Compact formaat"],
+    "en": ["Brass edge", "Scratch-free scraping", "Compact size"],
+    "de": ["Messingkante", "Kratzfreies Eiskratzen", "Kompakte Größe"],
+    "fr": ["Bord en laiton", "Grattage sans rayures", "Format compact"]
+  },
+  "recommended": false,
+  "stripeProductId": "",
+  "stripePriceId": ""
+}

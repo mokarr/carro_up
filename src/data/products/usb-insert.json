@@ -1,0 +1,46 @@
+{
+  "id": "usb-insert",
+  "category": "accessory",
+  "slug": "usb-insert",
+  "name": {
+    "nl": "USB inzet",
+    "en": "USB insert",
+    "de": "USB-Einsatz",
+    "fr": "Insert USB"
+  },
+  "shortDescription": {
+    "nl": "USB inzet met 2x USB-A poorten voor het dashboard",
+    "en": "USB insert with 2x USB-A ports for the dashboard",
+    "de": "USB-Einsatz mit 2x USB-A Anschlüssen für das Armaturenbrett",
+    "fr": "Insert USB avec 2 ports USB-A pour le tableau de bord"
+  },
+  "description": {
+    "nl": "Voeg extra USB-A poorten toe aan het dashboard van je VW Up, Seat Mii of Skoda Citigo. Ideaal voor het opladen van apparaten of het aansluiten van USB-accessoires. Naadloze integratie in je dashboard.",
+    "en": "Add extra USB-A ports to the dashboard of your VW Up, Seat Mii or Skoda Citigo. Ideal for charging devices or connecting USB accessories. Seamless integration into your dashboard.",
+    "de": "Fügen Sie zusätzliche USB-A Anschlüsse zum Armaturenbrett Ihres VW Up, Seat Mii oder Skoda Citigo hinzu. Ideal zum Laden von Geräten oder Anschließen von USB-Zubehör. Nahtlose Integration in Ihr Armaturenbrett.",
+    "fr": "Ajoutez des ports USB-A supplémentaires au tableau de bord de votre VW Up, Seat Mii ou Skoda Citigo. Idéal pour charger des appareils ou connecter des accessoires USB. Intégration parfaite dans votre tableau de bord."
+  },
+  "price": 4599,
+  "compareAtPrice": null,
+  "currency": "EUR",
+  "specs": {
+    "ports": "2x USB-A",
+    "fit": "VW Up / Seat Mii / Skoda Citigo"
+  },
+  "images": ["/images/products/usb-insert.jpg"],
+  "packageContents": {
+    "nl": ["USB inzet", "Bevestigingsmateriaal"],
+    "en": ["USB insert", "Mounting hardware"],
+    "de": ["USB-Einsatz", "Befestigungsmaterial"],
+    "fr": ["Insert USB", "Matériel de fixation"]
+  },
+  "features": {
+    "nl": ["2x USB-A poorten", "Naadloze dashboard integratie", "Eenvoudige installatie"],
+    "en": ["2x USB-A ports", "Seamless dashboard integration", "Easy installation"],
+    "de": ["2x USB-A Anschlüsse", "Nahtlose Armaturenbrett-Integration", "Einfache Installation"],
+    "fr": ["2 ports USB-A", "Intégration parfaite au tableau de bord", "Installation facile"]
+  },
+  "recommended": false,
+  "stripeProductId": "",
+  "stripePriceId": ""
+}

@@ -1,0 +1,46 @@
+{
+  "id": "storage-box",
+  "category": "accessory",
+  "slug": "storage-box",
+  "name": {
+    "nl": "Opbergbak",
+    "en": "Storage box",
+    "de": "Ablagebox",
+    "fr": "Boîte de rangement"
+  },
+  "shortDescription": {
+    "nl": "Handige opbergbak voor in het dashboard",
+    "en": "Convenient storage box for the dashboard",
+    "de": "Praktische Ablagebox für das Armaturenbrett",
+    "fr": "Boîte de rangement pratique pour le tableau de bord"
+  },
+  "description": {
+    "nl": "Praktische opbergbak die perfect past in het dashboard van je VW Up, Seat Mii of Skoda Citigo. Ideaal voor het opbergen van kleine spullen zoals je telefoon, portemonnee of sleutels.",
+    "en": "Practical storage box that fits perfectly in the dashboard of your VW Up, Seat Mii or Skoda Citigo. Ideal for storing small items like your phone, wallet or keys.",
+    "de": "Praktische Ablagebox, die perfekt in das Armaturenbrett Ihres VW Up, Seat Mii oder Skoda Citigo passt. Ideal zum Aufbewahren kleiner Gegenstände wie Telefon, Geldbörse oder Schlüssel.",
+    "fr": "Boîte de rangement pratique qui s'adapte parfaitement au tableau de bord de votre VW Up, Seat Mii ou Skoda Citigo. Idéale pour ranger les petits objets comme votre téléphone, portefeuille ou clés."
+  },
+  "price": 2999,
+  "compareAtPrice": null,
+  "currency": "EUR",
+  "specs": {
+    "material": "ABS plastic",
+    "fit": "VW Up / Seat Mii / Skoda Citigo"
+  },
+  "images": ["/images/products/storage-box.jpg"],
+  "packageContents": {
+    "nl": ["Opbergbak"],
+    "en": ["Storage box"],
+    "de": ["Ablagebox"],
+    "fr": ["Boîte de rangement"]
+  },
+  "features": {
+    "nl": ["Perfect passend", "Duurzaam ABS plastic", "Eenvoudig te plaatsen"],
+    "en": ["Perfect fit", "Durable ABS plastic", "Easy to install"],
+    "de": ["Perfekte Passform", "Langlebiges ABS-Kunststoff", "Einfach zu montieren"],
+    "fr": ["Ajustement parfait", "Plastique ABS durable", "Facile à installer"]
+  },
+  "recommended": false,
+  "stripeProductId": "",
+  "stripePriceId": ""
+}

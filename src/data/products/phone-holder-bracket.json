@@ -1,0 +1,46 @@
+{
+  "id": "phone-holder-bracket",
+  "category": "accessory",
+  "slug": "phone-holder-bracket",
+  "name": {
+    "nl": "Telefoonhouder met beugel",
+    "en": "Phone holder with bracket",
+    "de": "Telefonhalter mit Halterung",
+    "fr": "Support téléphone avec fixation"
+  },
+  "shortDescription": {
+    "nl": "Complete telefoonhouder set met montagebeugel",
+    "en": "Complete phone holder set with mounting bracket",
+    "de": "Komplettes Telefonhalter-Set mit Montagehalterung",
+    "fr": "Kit complet de support téléphone avec fixation de montage"
+  },
+  "description": {
+    "nl": "Stevige telefoonhouder met montagebeugel, speciaal ontworpen voor de VW Up, Seat Mii en Skoda Citigo. Universeel geschikt voor alle gangbare smartphones. Eenvoudig te monteren zonder gereedschap.",
+    "en": "Sturdy phone holder with mounting bracket, specifically designed for the VW Up, Seat Mii and Skoda Citigo. Universally compatible with all common smartphones. Easy to install without tools.",
+    "de": "Robuster Telefonhalter mit Montagehalterung, speziell für den VW Up, Seat Mii und Skoda Citigo entwickelt. Universell kompatibel mit allen gängigen Smartphones. Einfach zu montieren ohne Werkzeug.",
+    "fr": "Support téléphone robuste avec fixation de montage, spécialement conçu pour la VW Up, Seat Mii et Skoda Citigo. Compatible universellement avec tous les smartphones courants. Facile à installer sans outils."
+  },
+  "price": 7599,
+  "compareAtPrice": null,
+  "currency": "EUR",
+  "specs": {
+    "material": "ABS + silicone",
+    "compatibility": "Universal"
+  },
+  "images": ["/images/products/phone-holder-bracket.jpg"],
+  "packageContents": {
+    "nl": ["Telefoonhouder", "Montagebeugel", "Bevestigingsmateriaal"],
+    "en": ["Phone holder", "Mounting bracket", "Mounting hardware"],
+    "de": ["Telefonhalter", "Montagehalterung", "Befestigungsmaterial"],
+    "fr": ["Support téléphone", "Fixation de montage", "Matériel de fixation"]
+  },
+  "features": {
+    "nl": ["Universeel geschikt", "Stevige montagebeugel", "Eenvoudige installatie"],
+    "en": ["Universally compatible", "Sturdy mounting bracket", "Easy installation"],
+    "de": ["Universell kompatibel", "Robuste Montagehalterung", "Einfache Installation"],
+    "fr": ["Compatible universellement", "Fixation de montage robuste", "Installation facile"]
+  },
+  "recommended": false,
+  "stripeProductId": "",
+  "stripePriceId": ""
+}

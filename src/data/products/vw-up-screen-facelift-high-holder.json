@@ -1,0 +1,62 @@
+{
+  "id": "vw-up-screen-facelift-high-holder",
+  "category": "screen",
+  "slug": "vw-up-screen-2016-2023-high-dashboard-with-phone-holder",
+  "name": {
+    "nl": "UpCarPlay Scherm VW Up (2016–2023) — Hoog Dashboard — Met Telefoonhouder",
+    "en": "UpCarPlay Screen VW Up (2016–2023) — High Dashboard — With Phone Holder",
+    "de": "UpCarPlay Bildschirm VW Up (2016–2023) — Hohes Armaturenbrett — Mit Telefonhalter",
+    "fr": "Écran UpCarPlay VW Up (2016–2023) — Tableau de bord haut — Avec support téléphone"
+  },
+  "shortDescription": {
+    "nl": "11.25\" CarPlay scherm voor VW Up facelift met hoog dashboard en telefoonhouder",
+    "en": "11.25\" CarPlay screen for VW Up facelift with high dashboard and phone holder",
+    "de": "11,25\" CarPlay Bildschirm für VW Up Facelift mit hohem Armaturenbrett und Telefonhalter",
+    "fr": "Écran CarPlay 11,25\" pour VW Up restylage avec tableau de bord haut et support téléphone"
+  },
+  "description": {
+    "nl": "Upgrade je VW Up (2016–2023) met hoog dashboard met dit 11.25\" IPS touchscreen inclusief telefoonhouder. Geniet van draadloos Apple CarPlay, Android Auto, een ingebouwde 4K dashcam en nog veel meer. Plug & play installatie zonder aanpassingen aan je dashboard.",
+    "en": "Upgrade your VW Up (2016–2023) with high dashboard with this 11.25\" IPS touchscreen including phone holder. Enjoy wireless Apple CarPlay, Android Auto, a built-in 4K dashcam and much more. Plug & play installation without modifications to your dashboard.",
+    "de": "Rüsten Sie Ihren VW Up (2016–2023) mit hohem Armaturenbrett mit diesem 11,25\" IPS Touchscreen inklusive Telefonhalter auf. Genießen Sie drahtloses Apple CarPlay, Android Auto, eine integrierte 4K-Dashcam und vieles mehr. Plug & Play Installation ohne Änderungen am Armaturenbrett.",
+    "fr": "Améliorez votre VW Up (2016–2023) avec tableau de bord haut avec cet écran tactile IPS 11,25\" incluant un support téléphone. Profitez d'Apple CarPlay et Android Auto sans fil, d'une dashcam 4K intégrée et bien plus encore. Installation plug & play sans modifications du tableau de bord."
+  },
+  "price": 29999,
+  "compareAtPrice": 34999,
+  "currency": "EUR",
+  "specs": {
+    "display": "11.25\" IPS",
+    "resolution": "1920 x 720",
+    "dimensions": "260 x 105 mm",
+    "dashcam": "4K (3840 x 2160)",
+    "ram": "6 GB",
+    "brightness": "100–1000 nits",
+    "wireless": "CarPlay, Android Auto, BT 5.0, AirPlay",
+    "connections": "USB-C, AUX, microSD, rear camera",
+    "power": "5V / 3A",
+    "warranty": "1 year"
+  },
+  "images": ["/images/products/vw-up-facelift-high-holder.jpg"],
+  "packageContents": {
+    "nl": ["UpCarPlay scherm", "USB-C kabel", "AUX kabel (90°)", "Montagehandleiding"],
+    "en": ["UpCarPlay screen", "USB-C cable", "AUX cable (90°)", "Installation guide"],
+    "de": ["UpCarPlay Bildschirm", "USB-C Kabel", "AUX Kabel (90°)", "Montageanleitung"],
+    "fr": ["Écran UpCarPlay", "Câble USB-C", "Câble AUX (90°)", "Guide d'installation"]
+  },
+  "features": {
+    "nl": ["Draadloos Apple CarPlay & Android Auto", "Ingebouwde 4K dashcam", "Plug & play installatie", "11.25\" IPS touchscreen", "Bluetooth 5.0", "AirPlay ondersteuning"],
+    "en": ["Wireless Apple CarPlay & Android Auto", "Built-in 4K dashcam", "Plug & play installation", "11.25\" IPS touchscreen", "Bluetooth 5.0", "AirPlay support"],
+    "de": ["Drahtloses Apple CarPlay & Android Auto", "Integrierte 4K-Dashcam", "Plug & Play Installation", "11,25\" IPS Touchscreen", "Bluetooth 5.0", "AirPlay-Unterstützung"],
+    "fr": ["Apple CarPlay & Android Auto sans fil", "Dashcam 4K intégrée", "Installation plug & play", "Écran tactile IPS 11,25\"", "Bluetooth 5.0", "Support AirPlay"]
+  },
+  "recommended": false,
+  "variants": [
+    { "id": "logo-standard", "name": { "nl": "Standaard logo", "en": "Standard logo", "de": "Standard-Logo", "fr": "Logo standard" }, "priceModifier": 0 },
+    { "id": "logo-eup", "name": { "nl": "E-UP logo", "en": "E-UP logo", "de": "E-UP Logo", "fr": "Logo E-UP" }, "priceModifier": 2500 },
+    { "id": "logo-gti", "name": { "nl": "GTI logo", "en": "GTI logo", "de": "GTI Logo", "fr": "Logo GTI" }, "priceModifier": 3500 },
+    { "id": "logo-vw", "name": { "nl": "VW logo", "en": "VW logo", "de": "VW Logo", "fr": "Logo VW" }, "priceModifier": 2500 },
+    { "id": "logo-seat", "name": { "nl": "Seat logo", "en": "Seat logo", "de": "Seat Logo", "fr": "Logo Seat" }, "priceModifier": 2500 },
+    { "id": "logo-skoda", "name": { "nl": "Skoda logo", "en": "Skoda logo", "de": "Skoda Logo", "fr": "Logo Skoda" }, "priceModifier": 2500 }
+  ],
+  "stripeProductId": "",
+  "stripePriceId": ""
+}
