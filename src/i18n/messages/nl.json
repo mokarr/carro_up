@@ -17,7 +17,8 @@
     "freeShipping": "Gratis verzending",
     "warranty": "Garantie",
     "language": "Taal",
-    "sending": "Verzenden..."
+    "sending": "Verzenden...",
+    "close": "Sluiten"
   },
   "home": {
     "heroTitle": "CarPlay & Android Auto voor jouw VW Up, Seat Mii of Skoda Citigo",
@@ -105,6 +106,13 @@
     "send": "Verstuur",
     "sent": "Bericht verzonden!",
     "error": "Er ging iets mis. Probeer het opnieuw.",
+    "product": "Product",
+    "productScreen": "CarPlay scherm",
+    "productAccessory": "Accessoire",
+    "productOther": "Anders",
+    "photo": "Foto (optioneel)",
+    "selectCar": "Selecteer je auto",
+    "selectProduct": "Selecteer een product",
     "pageTitle": "Neem contact op",
     "pageSubtitle": "Heb je een vraag over onze CarPlay schermen of je bestelling? Neem gerust contact met ons op.",
     "businessTitle": "Onze gegevens",
@@ -115,7 +123,8 @@
     "rights": "Alle rechten voorbehouden.",
     "description": "CarPlay schermen voor Volkswagen Up, Seat Mii en Skoda Citigo.",
     "shipping": "Wereldwijde verzending",
-    "securePayment": "Veilig betalen"
+    "securePayment": "Veilig betalen",
+    "followUs": "Volg ons"
   },
   "order": {
     "successTitle": "Bedankt voor je bestelling!",

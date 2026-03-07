@@ -50,10 +50,16 @@ export function CartSidebar() {
       <div
         className="fixed inset-0 bg-black/50 z-50 transition-opacity"
         onClick={closeSidebar}
+        aria-hidden="true"
       />
 
       {/* Sidebar */}
-      <div className="fixed top-0 right-0 h-full w-full max-w-md bg-background border-l border-border z-50 flex flex-col shadow-xl">
+      <div
+        className="fixed top-0 right-0 h-full w-full max-w-md bg-background border-l border-border z-50 flex flex-col shadow-xl"
+        role="dialog"
+        aria-modal="true"
+        aria-label={t("title")}
+      >
         {/* Header */}
         <div className="flex items-center justify-between p-4 border-b border-border">
           <h2 className="text-lg font-semibold text-text-primary">
@@ -62,7 +68,7 @@ export function CartSidebar() {
           <button
             onClick={closeSidebar}
             className="p-2 text-text-secondary hover:text-text-primary transition-colors cursor-pointer"
-            aria-label="Close"
+            aria-label={tc("close")}
           >
             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />

@@ -62,9 +62,9 @@ export default async function TermsPage({
               <h2 className="text-lg font-semibold text-text-primary">
                 {t(section.titleKey)}
               </h2>
-              <p className="mt-2 text-sm text-text-secondary leading-relaxed">
+              <div className="mt-2 text-sm text-text-secondary leading-relaxed whitespace-pre-line">
                 {t(section.textKey)}
-              </p>
+              </div>
             </div>
           ))}
         </div>
