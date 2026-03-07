@@ -80,7 +80,7 @@ export function CompatibleVehicles({ brands }: CompatibleVehiclesProps) {
                 {brand.models.map((model) => (
                   <Link
                     key={model.id}
-                    href={`/selecteer/${brand.brand}/${model.id}`}
+                    href={`/selecteer/${brand.brand}`}
                     className="flex items-center justify-between border-b border-border px-4 py-2.5 text-sm transition-colors last:border-b-0 hover:bg-card-hover"
                   >
                     <div>
