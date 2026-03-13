@@ -57,10 +57,6 @@ export function LicensePlateInput({ locale }: LicensePlateInputProps) {
 
   return (
     <div className="w-full max-w-md mx-auto">
-      <p className="text-sm text-dark-text-secondary mb-3 text-center">
-        {t("licensePlateSubtitle")}
-      </p>
-
       <form onSubmit={handleSubmit} className="flex items-stretch gap-0">
         {/* NL country badge */}
         <div className="flex items-center justify-center bg-[#003399] text-white rounded-l-lg px-2.5 border-2 border-r-0 border-[#003399]">
@@ -104,8 +100,8 @@ export function LicensePlateInput({ locale }: LicensePlateInputProps) {
 
       {/* Error/success message */}
       {errorMessage && (
-        <p className={`mt-2 text-sm text-center ${
-          errorMessage === t("licensePlateFound") ? "text-success" : "text-error"
+        <p className={`mt-2 text-sm text-center font-medium ${
+          errorMessage === t("licensePlateFound") ? "text-green-400" : "text-red-400"
         }`}>
           {errorMessage}
         </p>
