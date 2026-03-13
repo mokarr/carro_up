@@ -72,7 +72,16 @@
     "chooseVariant": "Kies je opstart-logo",
     "optionalAccessories": "Optionele accessoires",
     "viewProduct": "Bekijk product",
-    "fromPrice": "Vanaf {price}"
+    "fromPrice": "Vanaf {price}",
+    "licensePlateTitle": "Voer je kenteken in",
+    "licensePlateSubtitle": "We zoeken direct het juiste scherm voor jouw auto",
+    "licensePlatePlaceholder": "AB-123-CD",
+    "licensePlateLookup": "Zoek op",
+    "licensePlateNotFound": "Kenteken niet gevonden. Controleer het kenteken en probeer opnieuw.",
+    "licensePlateUnsupported": "Helaas ondersteunen we dit model nog niet. Selecteer hieronder handmatig je auto.",
+    "licensePlateError": "Er ging iets mis. Probeer het opnieuw.",
+    "licensePlateOr": "of selecteer handmatig",
+    "licensePlateFound": "Gevonden! Even geduld..."
   },
   "product": {
     "specifications": "Specificaties",

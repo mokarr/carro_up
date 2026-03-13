@@ -3,6 +3,7 @@ import { Link } from "@/i18n/routing";
 import type { VehicleBrand } from "@/lib/vehicles";
 import type { Locale } from "@/i18n/config";
 import { t as tl } from "@/lib/vehicles";
+import { LicensePlateInput } from "@/components/selector/license-plate-input";
 
 type BrandStepProps = {
   brands: VehicleBrand[];
@@ -18,6 +19,18 @@ export function BrandStep({ brands, locale }: BrandStepProps) {
         {t("step1Title")}
       </h2>
       <p className="text-text-secondary mb-6">{t("subtitle")}</p>
+
+      {/* License plate lookup (NL only) */}
+      {locale === "nl" && (
+        <div className="mb-8">
+          <LicensePlateInput locale={locale} />
+          <div className="flex items-center gap-4 mt-6">
+            <div className="flex-1 h-px bg-border" />
+            <span className="text-sm text-text-secondary">{t("licensePlateOr")}</span>
+            <div className="flex-1 h-px bg-border" />
+          </div>
+        </div>
+      )}
 
       <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
         {brands.map((brand) => (

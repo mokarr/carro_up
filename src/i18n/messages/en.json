@@ -72,7 +72,16 @@
     "chooseVariant": "Choose your startup logo",
     "optionalAccessories": "Optional accessories",
     "viewProduct": "View product",
-    "fromPrice": "From {price}"
+    "fromPrice": "From {price}",
+    "licensePlateTitle": "Enter your license plate",
+    "licensePlateSubtitle": "We'll find the right screen for your car",
+    "licensePlatePlaceholder": "AB-123-CD",
+    "licensePlateLookup": "Look up",
+    "licensePlateNotFound": "License plate not found. Check and try again.",
+    "licensePlateUnsupported": "Unfortunately we don't support this model yet. Select your car manually below.",
+    "licensePlateError": "Something went wrong. Please try again.",
+    "licensePlateOr": "or select manually",
+    "licensePlateFound": "Found! One moment..."
   },
   "product": {
     "specifications": "Specifications",

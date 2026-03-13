@@ -72,7 +72,16 @@
     "chooseVariant": "Choisissez votre logo de démarrage",
     "optionalAccessories": "Accessoires optionnels",
     "viewProduct": "Voir le produit",
-    "fromPrice": "À partir de {price}"
+    "fromPrice": "À partir de {price}",
+    "licensePlateTitle": "Entrez votre plaque d'immatriculation",
+    "licensePlateSubtitle": "Nous trouvons le bon écran pour votre voiture",
+    "licensePlatePlaceholder": "AB-123-CD",
+    "licensePlateLookup": "Rechercher",
+    "licensePlateNotFound": "Plaque non trouvée. Vérifiez et réessayez.",
+    "licensePlateUnsupported": "Malheureusement, nous ne prenons pas encore en charge ce modèle. Sélectionnez votre voiture manuellement ci-dessous.",
+    "licensePlateError": "Une erreur est survenue. Veuillez réessayer.",
+    "licensePlateOr": "ou sélectionnez manuellement",
+    "licensePlateFound": "Trouvé ! Un instant..."
   },
   "product": {
     "specifications": "Spécifications",

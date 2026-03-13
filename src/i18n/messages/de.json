@@ -72,7 +72,16 @@
     "chooseVariant": "Wähle dein Start-Logo",
     "optionalAccessories": "Optionales Zubehör",
     "viewProduct": "Produkt ansehen",
-    "fromPrice": "Ab {price}"
+    "fromPrice": "Ab {price}",
+    "licensePlateTitle": "Kennzeichen eingeben",
+    "licensePlateSubtitle": "Wir finden den richtigen Bildschirm für dein Auto",
+    "licensePlatePlaceholder": "AB-123-CD",
+    "licensePlateLookup": "Suchen",
+    "licensePlateNotFound": "Kennzeichen nicht gefunden. Überprüfe es und versuche es erneut.",
+    "licensePlateUnsupported": "Leider unterstützen wir dieses Modell noch nicht. Wähle dein Auto unten manuell aus.",
+    "licensePlateError": "Etwas ist schiefgelaufen. Bitte versuche es erneut.",
+    "licensePlateOr": "oder manuell auswählen",
+    "licensePlateFound": "Gefunden! Einen Moment..."
   },
   "product": {
     "specifications": "Spezifikationen",

@@ -1,9 +1,11 @@
-import { useTranslations } from "next-intl";
+import { useTranslations, useLocale } from "next-intl";
 import { Container } from "@/components/ui/container";
 import { Button } from "@/components/ui/button";
+import { LicensePlateInput } from "@/components/selector/license-plate-input";
 
 export function Hero() {
   const t = useTranslations("home");
+  const locale = useLocale();
 
   return (
     <section className="relative overflow-hidden py-20 sm:py-28 lg:py-36 bg-dark">
@@ -23,7 +25,8 @@ export function Hero() {
           {t("heroSubtitle")}
         </p>
 
-        <div className="mt-10">
+        <div className="mt-10 flex flex-col items-center gap-6">
+          <LicensePlateInput locale={locale} />
           <Button href="/selecteer" size="lg">
             {t("heroCta")}
           </Button>
